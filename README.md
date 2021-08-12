@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to name 👋</h1>
+<h1 align="center">Welcome to work plan/card generator 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/name" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/name.svg">
@@ -28,15 +28,11 @@ install command
 
 ## Usage
 
-```sh
-usage command
-```
+
 
 ## Run tests
 
-```sh
-test
-```
+
 
 ## Author
 
