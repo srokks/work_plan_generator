@@ -1,64 +1,38 @@
-<h1 align="center">Welcome to work plan/card generator 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/name" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/name.svg">
-  </a>
-  <a href="doc url" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="license url" target="_blank">
-    <img alt="License: license" src="https://img.shields.io/badge/License-license-yellow.svg" />
-  </a>
-  <a href="https://twitter.com/twitter" target="_blank">
-    <img alt="Twitter: twitter" src="https://img.shields.io/twitter/follow/twitter.svg?style=social" />
-  </a>
-</p>
 
-> desc
+# Generator planu/kart pracy
 
-### 🏠 [Homepage](homepage)
+Dzięki arkuszowi można wygenerować pusty plan pracy, w oparciu o źródłowe dane(imiona pracowników oraz wymiar czasu pracy). Dodatkowo w oparciu o uzupełniony plan pracy generuje karty pracy dla działu kadr. Arkusz powinien być kompatybilny z 32 i 64 bitowymi systemami.
 
-### ✨ [Demo](demo url)
-
-## Install
-
-```sh
-install command
-```
-
-## Usage
+ ## Funkcje  
+- generowanie planu pracy w oparciu o listę pracowników i wymiarem czasu pracy uzupełnionymi ręcznie:
+   - wybór własnego koloru weekendu
+   - przygotowany plan automatycznie koloruje zmiany nocne 
+   - wyróżnianie zmian nocnych na planie pracy (formatowanie warunkowe)
+- generowanie kart pracy w oparciu o uzupełniony grafik 
+  - uzupełnianie dni świątecznych,weekendów odpowiednimi oznaczeniami
+  - zaznaczenia nieścisłości (praca w dzień swiąteczny) 
 
 
+## Użycie:
+Wystarczy otworzyć arkusz <nazwa> i włączyć obsługę makr.
+Uzupełnić szare pola w arkuszu generator tj. pracownicy, wymiar czasu pracy i kliknąć przycisk generuj.
 
-## Run tests
+
+## Zrzuty ekranu
+- Generowanie planu pracy:</br> 
+<a href="https://ibb.co/J3zMcVg"><img src="https://i.ibb.co/mNHMRkg/arkusz-generatora.png" alt="arkusz-generatora" border="0"></a></br>
+- Wygenerowany arkusz:</br>
+<a href="https://ibb.co/j5c1FFx"><img src="https://i.ibb.co/VN7P88h/grafik-1.png" alt="grafik-1" border="0"></a></br>
+- okienka generatorów:</br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/8mq6MwT/okno-generatora-karty-pracy.png" alt="okno-generatora-karty-pracy" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/8KrV1ZZ/okno-generatora-grafiku.png" alt="okno-generatora-grafiku" border="0"></a></br>
+- pasek postępu:</br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/MGmpMw2/progress-bar.png" alt="progress-bar" border="0"></a></br>
 
 
+## Autor
 
-## Author
+👤 **Jarosław Sroka**
 
-👤 **author_name**
-
-* Website: website
-* Twitter: [@twitter](https://twitter.com/twitter)
-* Github: [@gh username](https://github.com/gh username)
-* LinkedIn: [@linkedln](https://linkedin.com/in/linkedln)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](page url). You can also take a look at the [contributing guide](gude url).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-<a href="https://www.patreon.com/patreon">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## 📝 License
-
-Copyright © 2021 [author_name](https://github.com/gh username).<br />
-This project is [license](license url) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+* Github: [@srokks](https://github.com/srokks)
+* LinkedIn: [@srokks](https://linkedin.com/in/srokks)
