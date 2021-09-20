@@ -36,3 +36,6 @@ Uzupełnić szare pola w arkuszu generator tj. pracownicy, wymiar czasu pracy i 
 
 * Github: [@srokks](https://github.com/srokks)
 * LinkedIn: [@srokks](https://linkedin.com/in/srokks)
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
